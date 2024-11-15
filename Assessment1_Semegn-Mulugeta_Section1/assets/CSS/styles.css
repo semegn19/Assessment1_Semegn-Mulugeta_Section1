@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9; 
+    background-color: #d9eed9; 
 }
  
 header {
@@ -30,7 +30,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: #0ba000;
+    color: #4CAF50;
     padding: 5px 10px;    
 }
 
@@ -78,7 +78,7 @@ main h2 {
 }
 
 footer {
-    background-color: #004e01; 
+    background-color: #124314; 
     color:white;
     text-align: center;
     padding: 10px 0;
